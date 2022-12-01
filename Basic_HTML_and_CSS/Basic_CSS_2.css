@@ -1,0 +1,14 @@
+p {
+	background:green;
+	color: white;
+	text-decoration: underline black;
+	text-align: center;
+	font-weight: bold;
+}
+h1 {
+	text-shadow: 2px 2px #663C33;
+}
+h2 {
+	text-shadow: 4px 4px #ff0000;
+}
+/* This is my attempt at a css style sheet, including HTML entitys and text shadows*/
